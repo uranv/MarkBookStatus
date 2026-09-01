@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+  <name>[UR] Mark Book Status</name>
+  <author>ur</author>
+  <packageId>uranv.markbookstatus</packageId>
+  <supportedVersions>
+    <li>1.6</li>
+  </supportedVersions>
+  <description>Mark schematic and tome whose related research projects are unlocked.\nMark map whose related mission is discovered. </description>
+</ModMetaData>
