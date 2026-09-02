@@ -262,5 +262,8 @@ paket-files/
 __pycache__/
 *.pyc
 
-.mcp.json
 AGENTS.md
+.mcp.json
+.codex
+.claude
+dev.*
